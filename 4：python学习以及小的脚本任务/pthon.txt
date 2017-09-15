@@ -1,0 +1,8 @@
+学习资料：1.Python教程 菜鸟教程：http://www.runoob.com/python/python-tutorial.html
+	  2.Python教程 廖雪峰的官方网站：
+		https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+	  3.莫烦Python:https://morvanzhou.github.io/
+练习：1.Python 100例：http://www.runoob.com/python/python-100-examples.html（根据兴趣选做）
+      2.编程语言入门经典100例【Python版】:http://www.cnblogs.com/CheeseZH/archive/2012/11/05/2755107.html（根据兴趣选做）
+      3.学习莫烦Python中的TensorFlow视频，学会用TensorFlow编写MLP，CNN，RNN等代码，学会保存读取，训练测试，优化，
+	批处理，scope命名空间，学会Tensorboard可视化

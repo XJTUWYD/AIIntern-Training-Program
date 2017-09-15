@@ -1,0 +1,1 @@
+首先安装textlive，装载光盘映像，点击install-tl-windows安装，安装结束之后安装textstdio
